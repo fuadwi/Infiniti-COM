@@ -1,0 +1,36 @@
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.csprojAssemblyReference.cache
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.AddPMS.resources
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.MainForm.resources
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.Properties.Resources.resources
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.csproj.GenerateResource.cache
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.mdb
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.exe.config
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.exe
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.pdb
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.exe
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.pdb
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.Designer.cs
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.xsc
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.xsd
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.xss
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.AddPLC.resources
+C:\Users\R\source\repos\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.Config.resources
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.mdb
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.Designer.cs
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.xsc
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.xsd
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\CommunicationDataset.xss
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.exe.config
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.exe
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\bin\Debug\Infiniti-COM.pdb
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.csprojAssemblyReference.cache
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.AddPLC.resources
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.AddPMS.resources
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.Config.resources
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.MainForm.resources
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti_COM.Properties.Resources.resources
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.csproj.GenerateResource.cache
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.csproj.CoreCompileInputs.cache
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.exe
+D:\INFINITI\DEV\VB NET\Infiniti-COM_rev5\Infiniti-COM\Infiniti-COM\obj\Debug\Infiniti-COM.pdb
